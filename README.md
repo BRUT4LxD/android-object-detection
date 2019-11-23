@@ -6,7 +6,7 @@ The model files are downloaded via Gradle scripts when you build and run. You do
 
 Application can run either on device or emulator.
 
-<!-- TODO(b/124116863): Add app screenshot. -->
+![My Foot](/sample.png)
 
 ## Build the demo using Android Studio
 
